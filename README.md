@@ -24,7 +24,7 @@ In various projects, especially websites and applications related to teams, it's
 
 1. Clone this repository to your project directory:
 
-   git clone https://github.com/yourusername/team-member-card.git
+   git clone https://github.com/yuliia-anisimova/bem-tutorial.git
 
 2. Run 'npm install' to install the required dependencies.
 3. Run 'npm run dev' to start the development server.
