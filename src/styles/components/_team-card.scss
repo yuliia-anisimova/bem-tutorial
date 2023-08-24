@@ -17,6 +17,24 @@
   font-weight: 500;
   justify-self: center;
 
+  &--dark {
+    background-color: #111;
+
+    & .team-card__name {
+      color: #fff;
+    }
+
+    & .team-card__job-title,
+    & .team-card__bio {
+      color: #999;
+    }
+
+    & .team-card__social-icon {
+      background-color: #444;
+      color: #999;
+    }
+  }
+
   &__headshot-wrapper {
     margin: 0 0 rem(20) 0;
   }
